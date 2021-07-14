@@ -1,6 +1,6 @@
 ### Hi there 👋
-![toshikingggg github stats](https://github-readme-stats.vercel.app/api?username=toshikingggg&count_private=true&theme=dark&show_icons=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshikingggg&hide=Jupyter%20Notebook)
+<!-- ![toshikingggg github stats](https://github-readme-stats.vercel.app/api?username=toshikingggg&count_private=true&theme=dark&show_icons=true)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toshikingggg&hide=Jupyter%20Notebook) -->
 
 <!--
 **toshikingggg/toshikingggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
